@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of InventariApp Core Admin",
+  "description": "Plataforma central de gestión de inventarios para sincronización con SAP y AppSheet. Permite la carga de datos, asignación de tareas a controladores y monitoreo en tiempo real de auditorías físicas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
